@@ -156,5 +156,5 @@ public class SettinggActivity extends AppCompatActivity {
     private void saveSetting() {
         SharedPreft.getInstance().put(new Setting(sb_WordTime.getProgress(),sb_Break.getProgress(),sb_LongBreak.getProgress(),spinner.getSelectedItemPosition()));
     }
-
+  //jsafkdsgkjdas
 }
